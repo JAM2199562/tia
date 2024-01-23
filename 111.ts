@@ -30,7 +30,7 @@ const fee = {
   gas: "85000",
 };
 // 下面这个主要改币种和数量
-const memo = "urn:cft20:cosmoshub-4@v1;mint$tic=CARTEL,amt=1000000000";
+const memo = "urn:cft20:cosmoshub-4@v1;mint$tic=RUNES,amt=1024000000";
 const value_amount_denom = "1";
 const times = 5;
 const is_private_key = false;
